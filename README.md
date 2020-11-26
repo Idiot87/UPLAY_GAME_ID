@@ -16,7 +16,8 @@ List of GAME ID's in Uplay by Ubisoft
 625 - Assassin's Creed® Liberation HD  
 664 - Assassin's Creed® Freedom Cry  
 720 - Assassin's Creed Unity  
-895 - Assassin's Creed Rogue  
+895 - Assassin's Creed Rogue
+934 - Assassin's Creed Rogue (Steamversion)
 944 - Assassin's Creed Unity (RU)  
 1186 - Assassin's Creed Rogue (RU)  
 1651 - Assassin's Creed® Chronicles China  
@@ -24,7 +25,8 @@ List of GAME ID's in Uplay by Ubisoft
 1848 - Assassin's Creed® Chronicles Russia  
 1875 - Assassin's Creed Syndicate  
 1955 - Assassin's Creed Syndicate (RU)  
-3539 - Assassin's Creed Origins  
+3539 - Assassin's Creed Origins
+4923 - Assassin's Creed Origins (Steamversion)
 5059 - Assassin's Creed Odyssey  
 5183 - Assassin's Creed® III Remastered
 
@@ -78,7 +80,8 @@ List of GAME ID's in Uplay by Ubisoft
 # The Crew Franchise
 413 - The Crew (Worldwide)  
 507 - The Crew (Russian)  
-750 - The Crew (Beta)  
+750 - The Crew (Beta)
+665 - The Crew 2 (Steamversion)
 
 # Other
 3 - Silent Hunter®: Battle of the Atlantic Gold Edition  
@@ -105,8 +108,7 @@ List of GAME ID's in Uplay by Ubisoft
 437 - Assassin’s Creed® IV Black Flag™ (unknown Version)  
 632 - Assassin's Creed® Liberation HD (RU) ?  
 856 - Far Cry® 4 (unknown Version)  
-857 - Assassin's Creed Unity (unknown Version)  
-934 - Assassin's Creed Rogue (unknown Version)  
+857 - Assassin's Creed Unity (unknown Version)    
 1428 - Watch Dogs (US) ?  
 2029 - Far Cry® Primal (RU) ?  
 2052 - Anno 2205 (unknown Version)  
